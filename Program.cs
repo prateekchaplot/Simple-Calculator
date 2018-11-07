@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Simple_Calculator
+namespace SimpleCalculator
 {
     class Program
     {

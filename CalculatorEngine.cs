@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Simple_Calculator
+namespace SimpleCalculator
 {
     internal class CalculatorEngine
     {
