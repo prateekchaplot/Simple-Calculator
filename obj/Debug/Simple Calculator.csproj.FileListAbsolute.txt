@@ -1,0 +1,7 @@
+D:\Github\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+D:\Github\Simple Calculator\bin\Debug\Simple Calculator.exe
+D:\Github\Simple Calculator\bin\Debug\Simple Calculator.pdb
+D:\Github\Simple Calculator\obj\Debug\Simple Calculator.csprojAssemblyReference.cache
+D:\Github\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+D:\Github\Simple Calculator\obj\Debug\Simple Calculator.exe
+D:\Github\Simple Calculator\obj\Debug\Simple Calculator.pdb
